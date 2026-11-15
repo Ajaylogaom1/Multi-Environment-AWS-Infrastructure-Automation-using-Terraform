@@ -14,7 +14,7 @@ Terraform is used to provision AWS infrastructure through reusable modules. Ansi
 
 ## 🏗️ Architecture
 
-![Multi-Environment AWS Architecture](docs/architecture.png)
+![Multi-Environment AWS Architecture](Infrastructure-Automation-image)
 
 ### Architecture Components
 
